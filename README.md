@@ -1,8 +1,5 @@
 # Kanban Board
 
-## Description
-
-Kanban Board is a web application designed for agile teams to manage tasks and workflows efficiently. This project integrates a secure authentication system using JSON Web Tokens (JWT) to ensure that only authorized users can access the board. Built with a robust backend and an intuitive user interface, it streamlines task management while maintaining security.
 
 ## Table of Contents
 
@@ -14,6 +11,10 @@ Kanban Board is a web application designed for agile teams to manage tasks and w
 - [Contribution](#contribution)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
+
+## Description
+
+Kanban Board is a web application designed for agile teams to manage tasks and workflows efficiently. This project integrates a secure authentication system using JSON Web Tokens (JWT) to ensure that only authorized users can access the board. Built with a robust backend and an intuitive user interface, it streamlines task management while maintaining security.
 
 ## Features
 
